@@ -186,3 +186,8 @@ Remember: Dashboard development is an iterative process. Start with a clear unde
 * **Ongoing support** to address user questions and provide ongoing maintenance.
 
 **By following these steps and focusing on clear objectives, data quality, and user experience, you can create a highly effective dashboard that provides actionable insights and supports informed decision-making.**
+**TASK OUTCOME**:
+![DASHBOARD POWER BI](https://github.com/user-attachments/assets/69d480eb-8dde-4193-85f8-0e55674906de)
+![DASHBOARD TABLEAU](https://github.com/user-attachments/assets/32d7f5d4-2d1c-4419-a367-44a8beddb340)
+![dashboard excel](https://github.com/user-attachments/assets/3580be91-ecd0-494a-a0ee-3b309cd2a272)
+![python-real-time-dashboard-min](https://github.com/user-attachments/assets/ee370c45-b5b9-4fba-b6d4-be3c12f09e82)
